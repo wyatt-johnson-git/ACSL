@@ -7,7 +7,7 @@ The key elements of the Secure Small Business Network are:
 
 
 - Secure Core with modularity baked into the design
-- Aligned with elements of the NIST Cybersecurity Framework [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.ipd.pdf]
+- Aligned with elements of the [NIST Cybersecurity Framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.ipd.pdf) 
 - PFSense based firewall, standardizing on Netgate hardware
 - Preconfigured VLANs, etc.
 - Open Canary integration
