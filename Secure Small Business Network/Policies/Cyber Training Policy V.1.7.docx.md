@@ -1,5 +1,5 @@
-![image](media/image1.jpeg){width="5.10417in" height="4.14714in"}IT
-Cyber Training Policy
+![](media/image1.jpeg){width="5.104166666666667in"
+height="4.147135826771653in"}IT Cyber Training Policy
 
 This policy is informed by
 [NIST.SP.800-53r5.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
@@ -68,7 +68,7 @@ steps needed to prevent ongoing security threats before they occur.**
 
 **Objective**
 
-This policy aims to define the company's rules regarding cybersecurity
+This policy aims to define the company\'s rules regarding cybersecurity
 training.
 
 **Scope**

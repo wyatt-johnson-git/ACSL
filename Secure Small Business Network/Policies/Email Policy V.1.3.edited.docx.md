@@ -1,5 +1,5 @@
-![image](media/image1.jpeg){width="5.10417in" height="4.14714in"}IT
-Email Policy
+![](media/image1.jpeg){width="5.104166666666667in"
+height="4.147135826771653in"}IT Email Policy
 
 This policy is informed by
 [NIST.SP.800-177r1.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf)
@@ -28,7 +28,7 @@ with unwanted requests to overwhelm the server from completing
 legitimate ones.**
 
 **DNS hijacking- The hacker tries to intercept queries sent to the
-victim's DNS server or send the request directly to the attacker's DNS
+victim\'s DNS server or send the request directly to the attacker\'s DNS
 server.**
 
 **Add security that encrypts email transmissions with SMTP (Simple Mail
@@ -60,8 +60,8 @@ using their email.**
 
 **Objective**
 
-This policy aims to define the company's rules regarding the appropriate
-use of emails.
+This policy aims to define the company\'s rules regarding the
+appropriate use of emails.
 
 **Scope**
 
@@ -73,7 +73,7 @@ and report email-based attacks.
 **Policy**
 
 **Employees are responsible for creating user password that meets the
-company's criteria when setting up their email account.**
+company\'s criteria when setting up their email account.**
 
 **Employees will never share their passwords and use Bitwarden (password
 manager) for added security.**

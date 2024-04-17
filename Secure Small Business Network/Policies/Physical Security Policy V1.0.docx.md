@@ -1,5 +1,5 @@
-![image](media/image1.jpeg){width="5.10417in" height="4.14714in"}IT
-Physical Security Policy
+![](media/image1.jpeg){width="5.104166666666667in"
+height="4.147135826771653in"}IT Physical Security Policy
 
 This policy is informed by
 [NIST.SP.800-116r1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-116r1.pdf)
@@ -66,7 +66,7 @@ has regarding physical security.
 
 This policy applies to all employees of this company and has guidelines
 for both the business and individual employees.\
- \
+\
 **Policy**
 
 Employees will have their ID badge on at all times and it needs to be

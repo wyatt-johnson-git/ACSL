@@ -1,5 +1,5 @@
-![image](media/image1.jpeg){width="5.10417in" height="4.14714in"}IT
-Password Policy
+![](media/image1.jpeg){width="5.104166666666667in"
+height="4.147135826771653in"}IT Password Policy
 
 This policy is informed by [NIST Special Publication
 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
@@ -63,7 +63,7 @@ has regarding passwords.
 
 This policy applies to all employees of this company and has guidelines
 for both the business and individual employees.\
- \
+\
 **Policy**
 
 Passwords should be no shorter than 12 characters long. These longer
