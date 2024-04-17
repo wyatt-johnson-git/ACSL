@@ -4,8 +4,10 @@
 This policy is informed by [NIST Special Publication
 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
-V.1.0\
-Updated 10 September 2023\
+Version: 1.0
+
+Updated: 10 September 2023
+
 Written by Wyatt Johnson
 
 # Business Level Information
@@ -36,19 +38,20 @@ Consider these suggestions for helping to improve your businesses password secur
 
 
 # IT Password Policy
+
 ## Background
 
 Passwords are the common, basic layer of security when working with computer equipment. This is often how you "prove" to a computer that you are the actual person that is associated with a username. The cybersecurity industry has updated its understanding of what makes a "good password" in recent years to better accommodate how people think and current cybersecurity threats.
 
-**Objective**
+## Objective
 
 The goal of this policy is to clearly define the rules that this company has regarding passwords.
 
-**Scope**
+## Scope
 
 This policy applies to all employees of this company and has guidelines for both the business and individual employees.
 
-**Policy**
+## Policy
 
 - Passwords should be no shorter than 12 characters long. These longer
 passwords are much harder for computers to "guess".
@@ -67,11 +70,14 @@ high level of entropy, as these are also harder for computers to
 
 - Only change your password when necessary. It is better to pick a really good password and stick with it than pick a simpler one and change it frequently.
 
+Employee Name
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Employee Signature
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Trainer/Manager Signature
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Current Date
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
