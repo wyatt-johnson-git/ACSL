@@ -1,14 +1,16 @@
+<div style='text-align: center;'>
+
 # IT Password Policy
 ![image](../../ACSL_Logo-Full_Color600x488.jpg)
 
-This policy is informed by [NIST Special Publication
-800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
+This policy is informed by [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
 Version: 1.0
 
 Updated: 10 September 2023
 
 Written by Wyatt Johnson
+</div>
 
 # Business Level Information
 

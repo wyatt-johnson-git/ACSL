@@ -1,14 +1,16 @@
+<div style='text-align: center;'>
+
 # IT Email Policy
 ![image](../../ACSL_Logo-Full_Color600x488.jpg)
 
-This policy is informed by
-[NIST.SP.800-177r1.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf)
+This policy is informed by [NIST.SP.800-177r1.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf)
 
 Version: 1.4
 
 Updated: 17 October 2023
 
 Written by Jackson Duong
+</div>
 
 # Business Level Information
 

@@ -1,14 +1,16 @@
+<div style='text-align: center;'>
+
 # IT Physical Security Policy
 ![image](../../ACSL_Logo-Full_Color600x488.jpg)
 
-This policy is informed by
-[NIST.SP.800-116r1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-116r1.pdf)
+This policy is informed by [NIST.SP.800-116r1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-116r1.pdf)
 
 Version: 1.0
 
 Updated:  20 September 2023
 
 Written by Jackson Duong
+</div>
 
 # Business Level Information
 

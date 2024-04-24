@@ -1,14 +1,16 @@
+<div style='text-align: center;'>
+
 # IT Cyber Training Policy
 ![image](../../ACSL_Logo-Full_Color600x488.jpg)
 
-This policy is informed by
-[NIST.SP.800-53r5.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+This policy is informed by [NIST.SP.800-53r5.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
 
 Version: 1.4
 
 Updated: 03 October 2023
 
 Written by Jackson Duong
+</div>
 
 # Business Level Information
 
