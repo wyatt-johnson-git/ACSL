@@ -14,9 +14,9 @@ The elements of the Secure Small Business Network that are accomplished by this 
 
 # Firewall install doc. 
 
-Step 1. Buy this firewall (Except it's not sold anymore so there goes that)
+Step 1. Buy this [firewall](https://shop.netgate.com/products/4100-base-pfsense).
 
-step 2. download this config. [Link](https://github.com/wyatt-johnson-git/ACSL/tree/main/Secure%20Small%20Business%20Network/firewall/SBFirewallConfig.xml)
+step 2. download this [config](https://github.com/wyatt-johnson-git/ACSL/tree/main/Secure%20Small%20Business%20Network/firewall/SBFirewallConfig4100.xml). 
 
 Step 3. plug firewall power jack in and secure it. Plug other end into the UPS. 
 
