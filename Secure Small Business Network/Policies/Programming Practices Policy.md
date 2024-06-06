@@ -16,7 +16,7 @@ Consider these suggestions for helping to improve your businesses programming pr
 
 Use a Version Control System (VCS), such as [Git](https://git-scm.com/). This allows you to create easy to return to checkpoints in your code, and makes collaboration easier. 
 
-Make sure that any secrets (API keys, passwords, etc) are not commited. For best results use some kind of secrets manager. 
+Make sure that any secrets (API keys, passwords, etc) are not commited. For best results use some kind of secrets manager like [Vault](https://www.vaultproject.io/) or [Bitwarden](https://bitwarden.com/products/secrets-manager/). 
 
 Make use of a code formatter for making sure that all code written is consistent in formatting and spacing across all developers. 
 
