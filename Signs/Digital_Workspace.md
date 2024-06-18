@@ -3,6 +3,6 @@
 
 # Digital Workspace
 
-This is where individuals can use computers to test, break, and re-configure operating systems of their choice.
+This is in essence a computer lab for individuals who need access to computers.
 
-This resource allows individuals to load a operating system image currently available on our fog server. They may then test it, break it, reload it, and repeat. 
+This resource gives individuals use of a computer to complete their tasks.
