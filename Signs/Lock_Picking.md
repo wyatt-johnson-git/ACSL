@@ -3,6 +3,6 @@
 
 # Lock Picking Station
 
-This is where individuals can learn how locked cylinders can be picked.
+This is where you can learn how locks can be picked.
 
-This resource teaches individuals the importance of good physical security for their digital assets.
+This resource teaches individuals the importance of good physical security for their assets.

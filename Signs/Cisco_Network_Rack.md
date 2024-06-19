@@ -1,8 +1,8 @@
 ![ACSL Logo](../ACSL_Logo-Full_Color600x488.jpg)
 
 
-# Cisco Network Rack
+# Cisco Networking Rack
 
-This is where individuals can configure Cisco devices in order to create and test network configurations. 
+This is where you can configure Cisco devices in order to build and test networks. 
  
-This resource allows individuals who are learning network administration to continue receiving hands-on experience while outside of the classroom.
+This resource allows individuals who are learning network administration to get hands-on experience while outside of the classroom. Or, jump in and give networking a try for the first time.

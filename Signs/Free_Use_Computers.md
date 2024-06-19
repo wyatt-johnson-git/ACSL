@@ -1,8 +1,8 @@
 ![ACSL Logo](../ACSL_Logo-Full_Color600x488.jpg)
 
 
-# Free Use Computers
+# Bench Test Area
 
-This is where individuals can use computers to test, break, and re-configure operating systems of their choice.
+This is where you can test and experiment with operating systems.
 
-This resource allows individuals to load a operating system image currently available on our flash drives. They may then test it, break it, reload it, and repeat. 
+This resource allows individuals to try out operating system images currently available on our flash drives. You can test it, try new things, mess stuff up, reload it, and try again. 

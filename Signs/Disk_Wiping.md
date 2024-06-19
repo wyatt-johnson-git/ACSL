@@ -3,6 +3,6 @@
 
 # Disk Wiping Station
 
-This is where individuals can have drives completely wiped/overridden using ShredOS. 
+This is where you can completely wipe a hard drive using ShredOS. 
  
-This resource reinforces the importance of "destroying" drives with sensitive data before discarding them.
+This resource destroys the sensitive data before discarding, donating or reusing a drive.

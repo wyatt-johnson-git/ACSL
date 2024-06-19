@@ -2,6 +2,7 @@
 
 # Lab Worker Daily Checklist
 
+## OPEN LAB
 - [ ] Unlock doors
   - [ ] Main door
   - [ ] Podcast studio
@@ -9,6 +10,8 @@
 - [ ] Turn on lights
 - [ ] Turn on sign-in monitor
 - [ ] Set door contact sign out (5:30-6:00pm)
+
+## CLOSE LAB
 - [ ] Retrieve door sign (7:30-8:00pm)
 - [ ] Push in chairs
 - [ ] (Monday, Teusday, Wednesday) set robovac schedule for 7am

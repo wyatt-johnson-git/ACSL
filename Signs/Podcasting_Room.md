@@ -2,6 +2,7 @@
 
 # Podcasting Studio
 
-This is a sound dampened room where individuals may use our mixer, microphones, and computers to create their own media.
+You can record podcasts, create AV recordings, create audio recordings, or use the quiet space for virtual meetings.
 
-This resource allows individuals to record podcasts, create AV recordings, create audio recordings, or use the quiet space for virtual meetings.
+This is a sound dampened room where individuals can use our mixer, microphones, and computers to create their own media.
+

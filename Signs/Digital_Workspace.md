@@ -3,6 +3,6 @@
 
 # Digital Workspace
 
-This is a computer lab for individuals who need access to computers.
+These machines are configured with Linux, Internet access, and available for your general use. 
 
-This resource gives individuals use of a computers preconfigured with the software necessary to complete their tasks.
+They have a standard set of applications already installed. Any work not saved on a USB Flash drive, etc. will be automatically deleted, so plan accordingly. 
