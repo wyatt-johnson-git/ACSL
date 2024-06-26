@@ -24,11 +24,11 @@
 - [ ] Position microphones in front of speakers, test by speaking
 
 ## Start Recording
-
 - [ ] In OBS click the start recording button
 
 ## Stop recording
 - [ ] In OBS click the stop recording button
+- [ ] Place headphones back on stands
 
 ## Copying your recording
 - [ ] Remove a USB plug from the right hand rear of the main Mac
@@ -38,6 +38,11 @@
 - [ ] Once copied safely eject the flash drive
 - [ ] Remove from the Mac
 - [ ] Plug in the removed USB from earlier
+
+## Leaving the room
+ - [ ] Turn off devices
+   - [ ] Mac Computers
+   - [ ] Mackie DLZ Creator
 
  ### Any questions on process please ask one of the workers for ACSL. 
 
