@@ -12,10 +12,13 @@
     - Power button located left hand rear about finger length from bottom corner
   - [ ] Mackie DLZ Creator
     - Power switch located right hand rear about center up
+- [ ] Login to Mac
+  - Password: toor
 - [ ] Open relevant programs on the main Mac
   - [ ] Open Broadcast Studio (OBS)
     - Located in the bottom right of the screen with the circle three section logo
 - [ ] Select relevant scene in OBS
+- [ ] Remove Razer webcam lens cap
 - [ ] Check that cameras are positioned as expected
 - [ ] Check that audio is output to the headphones
 - [ ] Check that audio is output to OBS 
@@ -49,10 +52,11 @@
 - [ ] Remove from the Mac
 
 ## Leaving the room
+ - [ ] Put Razer lens cap back on Razer webcam
  - [ ] Turn off devices
    - [ ] Mac Computers
    - [ ] Mackie DLZ Creator
 
- ### Any questions on process please ask one of the workers for ACSL. 
+ ### Any questions on process please ask one of the workers for the ACSL. 
 
 ![](../ACSL_Logo-Full_Color600x488.jpg)
