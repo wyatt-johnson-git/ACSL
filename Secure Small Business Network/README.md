@@ -1,7 +1,7 @@
 
 # Secure Small Business Network
 
-Our goal is to build a model small business network that offers better security that what most are using, at an affordable price point and with good usability. Then, make it available to the community so that better security is easily obtainable. This is largely done by leveraging open source projects and adding in the missing bits.
+Our goal is to build a model small-business network that offers better security than most, at an affordable price point (~$2000 USD) and with good usability. Then, make it available to the community so that better security is easily obtainable. This is largely done by leveraging open-source projects and then adding in the missing bits. 
 
 The key elements of the Secure Small Business Network are:
 
@@ -16,6 +16,7 @@ The key elements of the Secure Small Business Network are:
 - Linux Desktop suggested using PopOS!
 - Backup strategy built on Duplicati
 - Included policy templates
+- Help smaller businesses align with the NIST SP 800-171 standards
 
 ## Acknowledgements
 
@@ -28,3 +29,4 @@ The key elements of the Secure Small Business Network are:
 - Wyatt Johnson
 - Derek Zevalkink
 - Andrew Karnes
+- Ngoc T. Nguyen
